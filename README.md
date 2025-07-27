@@ -2,11 +2,11 @@ Emaar Share Price Prediction
 This project predicts Emaar Properties' share prices using machine learning and deep learning models, built and executed in Google Colab.
 
 Project Overview
-Goal: Forecast Emaar's share prices for July 21–26.
+Goal: Forecast Emaar's share prices for July 21–25.
 
 Environment: Google Colab Notebook.
 
-Notebook: Emaar_share_price_prediction_july_21_to_26.ipynb
+Notebook: Emaar_share_price_prediction_july_21_to_25.ipynb
 
 Features
 Data preprocessing and cleaning in Colab.
